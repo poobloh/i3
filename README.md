@@ -6,7 +6,6 @@ If you want to check out how you could use them, you could check out my [dotfile
 
 This fork, much like i3 itself, maintains two branches: The `gaps` branch is the equivalent of i3's stable `master` branch while `gaps-next` contains `gaps` and i3's `next`.
 
-
 # Installation
 
 Please refer to the wiki to see how i3-gaps can be installed and for which distributions there are packages available.
